@@ -1,0 +1,78 @@
+
+
+div.product1
+{
+	width: 65%;
+}
+
+div.product2
+{
+	width: 65%;
+}
+
+div.product3
+{
+	width: 40%;
+}
+
+div.product4
+{
+	width: 40%;
+}
+
+div.aside 
+{
+	width: 20%;
+	text-align: center;
+}
+
+div.productx
+{
+	width: 40%;
+	font-size: 90%;
+
+}
+
+@media screen and (max-width: 800px) {
+	
+	div.aside
+	{
+		width: 97%;
+	}
+
+	div.nav ul li
+	{
+		font-size: 50%;
+	}
+
+	div.mobile-collapse {
+		width: auto;
+		margin-right: 0;
+	}
+	
+	div.footer
+	{
+		width: auto;
+	}
+
+	div.product1, div.product2, div.product3, div.product4
+	{
+		font-size: 80%;
+	}
+
+	div.footer
+	{
+		font-size: 90%;
+	}
+
+	div.article
+	{
+		width: auto;
+	}
+
+	div.producty {
+		width: auto;
+	}
+		
+}
+
