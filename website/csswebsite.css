@@ -80,6 +80,17 @@ div.aside ul li
 	padding-left: 1em;
 }
 
+div.aside ol li
+{
+	list-style: none;
+	font-size: 93%;
+	text-decoration: none;
+	line-height: 1.5em;
+	border-bottom: 2px solid black;
+	padding: 1px;
+	padding-left: 1em;
+}
+
 div.aside ul li a:link,
 div.aside ul li a:visited 
 {
