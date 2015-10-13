@@ -100,6 +100,7 @@ div.product1, div.product2, div.product3, div.product4
 div.omost
 {
 	background-color: #d4d4d4;
+	text-align: center;
 	border-style: solid;
 	margin-bottom: 1em;
 	width: 30%;
