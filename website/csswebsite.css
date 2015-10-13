@@ -97,6 +97,17 @@ div.product1, div.product2, div.product3, div.product4
 	padding: 1em;
 }
 
+div.omost
+{
+	background-color: #d4d4d4;
+	border-style: solid;
+	margin-bottom: 1em;
+	width: 30%;
+	float: left;
+	margin-right: 1em;
+	padding: 1em;
+}
+
 div.footer
 {
 	background-color: #d4d4d4;
