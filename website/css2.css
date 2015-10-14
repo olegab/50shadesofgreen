@@ -1,0 +1,33 @@
+
+
+body{
+	background-color: green;
+
+}
+
+header{
+	background-color: lightgreen;
+    width: 900px;
+    padding: 15px;
+    border: 15px solid black;
+    margin: 125px;
+	text-align:center;	
+}
+
+@font-face {
+    font-family: truelies;
+    src: url(truelies.ttf);
+}
+
+div{
+    background-color: lightgreen;
+    width: 900px;
+    padding: 15px;
+    border: 15px solid black;
+    margin: 125px;
+	text-align:center;
+	
+
+}
+
+
